@@ -13,4 +13,4 @@
 ->Run "python3 ludo.py".
 
 ->Go to your attacker machine and BOOM !!! NOW YOU HAVE ACCESS OF YOUR VICTIM'S MACHINE.
--
+
